@@ -22,13 +22,6 @@ This repository is shared **without any license**. That means:
 
 If you wish to use or collaborate on this project, please contact the author directly for written permission.
 
-## 📁 Project Structure
-
-- `src/` — Core source code for data entry and validation  
-- `config/` — Configuration files for PMG rules and formats  
-- `docs/` — Internal documentation and usage notes  
-- `README.md` — Project overview and restrictions  
-
 ## ⚠️ Disclaimer
 
 This project is provided "as is" without warranty of any kind. The author is not responsible for any misuse, damage, or liability resulting from unauthorized use.
