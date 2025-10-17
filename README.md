@@ -1,28 +1,33 @@
-# Practice Match Guarantee - Data Tracker
+# pmg-dt
 
+**Project Name:** Price Match Guarantee - Data Tracker (pmg-dt)  
+**Purpose:** Data Record Entry for Price Match Guarantee Outputs.  
 **Status:** Private / No License Granted  
-**Author:** hana291sale 
+**Author:** hana291sale
 **Version:** 1.0.0  
 **Last Updated:** October 17, 2025
 
-## 📌 Overview
+## 🧾 Overview
 
-`pmg-dt` is a proprietary software project developed for internal use or demonstration purposes. This repository contains source code and documentation related to the project, but it is **not licensed for public use, modification, or distribution**.
+`pmg-dt` is a proprietary data entry system designed to streamline the recording and management of outputs related to Price Match Guarantee (PMG) programs. It supports structured input, validation, and storage of PMG-related data for internal analysis and reporting.
+
+This project is intended for internal use only and is not licensed for public distribution or modification.
 
 ## 🚫 License Notice
 
-This project is shared **without any license**. That means:
+This repository is shared **without any license**. That means:
 
-- You **do not** have permission to copy, modify, distribute, or use this code in any form.
+- You **may not** copy, modify, distribute, or use this code in any form.
 - All rights are reserved by the author.
 - This repository is provided for **reference only**.
 
 If you wish to use or collaborate on this project, please contact the author directly for written permission.
 
-## 📁 Contents
+## 📁 Project Structure
 
-- `src/` — Source code files  
-- `docs/` — Documentation and usage notes  
+- `src/` — Core source code for data entry and validation  
+- `config/` — Configuration files for PMG rules and formats  
+- `docs/` — Internal documentation and usage notes  
 - `README.md` — Project overview and restrictions  
 
 ## ⚠️ Disclaimer
@@ -31,4 +36,4 @@ This project is provided "as is" without warranty of any kind. The author is not
 
 ---
 
-For inquiries, reach out via [your contact info or GitHub profile].
+For inquiries, please contact [your email or GitHub profile].
