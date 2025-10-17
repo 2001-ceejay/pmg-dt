@@ -1,6 +1,5 @@
-# pmg-dt
+# Prace Match Guarantee - Data Tracker (pmg-dt)
 
-**Project Name:** Price Match Guarantee - Data Tracker (pmg-dt)  
 **Purpose:** Data Record Entry for Price Match Guarantee Outputs.  
 **Status:** Private / No License Granted  
 **Author:** hana291sale
