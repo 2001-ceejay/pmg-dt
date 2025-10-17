@@ -35,4 +35,4 @@ This project is provided "as is" without warranty of any kind. The author is not
 
 ---
 
-For inquiries, please contact [your email or GitHub profile].
+For inquiries, please contact 2001.ceejay@gmail.com.
