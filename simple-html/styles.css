@@ -1,2 +1,20 @@
 /* Minimal starter styles */
-*{box-sizing:border-box}html,body{height:100
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif;
+  line-height: 1.5;
+  background: #0f172a; /* slate-900 */
+  color: #e2e8f0;     /* slate-200 */
+  display: grid;
+  place-items: center;
+}
+a { color: #93c5fd; }
+button { cursor: pointer; }
+button, input, textarea { font: inherit; }
+
+.container { padding: 2rem; max-width: 720px; width: 100%; }
+h1 { font-size: clamp(2rem, 2vw + 1rem, 3rem); margin: 0 0 0.5rem; }
+#actionBtn { background: #2563eb; color: white; border: none; padding: 0.6rem 1rem; border-radius: 0.5rem; }
+#actionBtn:hover { background: #1d4ed8; }
